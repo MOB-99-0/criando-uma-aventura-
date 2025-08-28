@@ -9,3 +9,6 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+
+let botao = document.querySelector('.meu-botao');
+let paragrafos = document.querySelectorAll('p');
